@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mac 全局格式刷工具
-category: default
+category: work
 ---
 
 用习惯了微软Office系列的格式刷，那整理起文章是得心应手啊，掌握了绝对不会有字体高矮各异，间距时宽时窄的问题。可是，Office系列软件是舒心了，不支持格式刷的App应用、浏览器这些都该怎么办呢？
@@ -9,9 +9,13 @@ category: default
 为了解决这些问题，全局格式刷工具正式入驻Mac了。简单四步操作，解决格式烦恼：
 
 1.  选中源格式文本
+	![选中源格式文本](http://res.toraleap.com/images/20120926/FormatPainter01.png)
 2.  按下⌘C复制源文本，此时在状态栏可直观看到当前复制文字的格式概要
+	![复制源文本](http://res.toraleap.com/images/20120926/FormatPainter02.png)
 3.  选中目标文本
+	![选中目标文本](http://res.toraleap.com/images/20120926/FormatPainter03.png)
 4.  按下⇧⌘V粘贴格式到目标文本
+	![粘贴格式](http://res.toraleap.com/images/20120926/FormatPainter04.png)
 点击下载：[FormatPainter.dmg](http://res.toraleap.com/attachments/FormatPainter.dmg) (79KB)
 
 如对工作原理有兴趣，请继续看：
