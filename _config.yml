@@ -6,7 +6,7 @@ exclude:
   - README.md
 
 name: 惊羽九天
-host: toraleap.com
+host: /
 desc: Discovers what the world hides
 
 custom:
