@@ -32,10 +32,10 @@ meta:
     author:
         name: 惊羽九天
         email: mobius@toraleap.com
-        disqus: your-disqus-short-name              # Disqus缩略标识
-        gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
+        disqus: toraleap                            # Disqus缩略标识
+        gcse: 008584709401321574054:s8lt4ndvr2k     # Google自定义搜索标识ID
         github: toraleap                            # GitHub账号
-        gravatar: 1cd8c12591616d8c22aaa624f8c07834  # Gravatar头像标识
+        gravatar:                                   # Gravatar头像标识
 
     disqus: disqus.com/embed.js                     # Disqus评论的JS地址
     gapi: http://www.google.com/jsapi               # Google API地址
